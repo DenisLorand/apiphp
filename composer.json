@@ -1,7 +1,7 @@
-git init
+
 {
     "name": "kercode/api",
-    "description" : "Projet"
+    "description" : "Projet",
     "authors": [
         {
             "name": "DenisLorand",
