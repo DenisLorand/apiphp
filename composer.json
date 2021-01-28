@@ -1,4 +1,3 @@
-
 {
     "name": "kercode/api",
     "description" : "Projet",
@@ -8,5 +7,8 @@
             "email": "denis.lorand@yahoo.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    } 
+    /*fichier .env avec variable d'environnement*/
 }
