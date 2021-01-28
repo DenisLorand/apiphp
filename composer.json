@@ -1,0 +1,12 @@
+git init
+{
+    "name": "kercode/api",
+    "description" : "Projet"
+    "authors": [
+        {
+            "name": "DenisLorand",
+            "email": "denis.lorand@yahoo.com"
+        }
+    ],
+    "require": {}
+}
