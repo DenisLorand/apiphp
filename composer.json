@@ -10,5 +10,5 @@
     "require": {
         "vlucas/phpdotenv": "^5.3"
     } 
-    /*fichier .env avec variable d'environnement*/
+   
 }
