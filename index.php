@@ -4,7 +4,7 @@ require('vendor/autoload.php');
 
 // $_SERVER['REQUEST_URI']
 
-// Si mon url != "
+// Si mon url != ""
 
 if($_SERVER['HTTP_HOST'] != "api-slack-token-dl.herokuapp.com"){
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
